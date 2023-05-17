@@ -39,5 +39,6 @@ app/index-dev.html
 
 #IDE
 .idea
+.vscode
 
 bower_components
