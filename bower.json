@@ -1,5 +1,5 @@
 {
-  "name": "oauth-ng",
+  "name": "oauth-ng-pkce",
   "version": "0.4.11",
   "main": [
     "dist/oauth-ng.js",
