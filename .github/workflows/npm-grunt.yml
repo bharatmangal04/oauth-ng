@@ -1,4 +1,4 @@
-name: Fork Oauth-ng Grunt
+name: Oauth-ng-Build
 
 on:
   push:
