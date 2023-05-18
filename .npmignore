@@ -50,6 +50,8 @@ test
 .bowerrc
 .jshintrc
 Gruntfile.js
-Karma.config.js
+karma.conf.js
 node_modules
 package.json
+bower.json
+.travis.yml

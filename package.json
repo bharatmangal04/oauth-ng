@@ -7,7 +7,9 @@
     "type": "git",
     "url": "https://github.com/bharatmangal04/oauth-ng"
   },
-  "dependencies": {},
+  "dependencies": {
+    "base64-js": "^1.5.1"
+  },
   "devDependencies": {
     "bower": "^1.3.12",
     "grunt": "~0.4.1",
